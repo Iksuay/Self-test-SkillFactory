@@ -141,3 +141,14 @@ class MainClass
     }
 }
 */
+/*
+Console.Write("Введите ваше имя: ");
+var Name = Console.ReadLine();
+
+foreach (var a in Name)
+{
+    Console.Write(a + " "); 
+}
+
+Console.WriteLine("Последняя буква ваего имени: {0}", Name[Name.Length - 1]);
+*/
